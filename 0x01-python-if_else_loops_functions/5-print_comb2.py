@@ -5,4 +5,3 @@ for number in range(0, 100):
     else:
         print("{:02}".format(number), end=", ")
 
-
